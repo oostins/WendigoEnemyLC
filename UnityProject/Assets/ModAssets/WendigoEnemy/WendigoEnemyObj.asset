@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65d3fcb39dd67306e9bb17a603308070, type: 3}
+  m_Name: WendigoEnemyObj
+  m_EditorClassIdentifier: 
+  enemyName: Wendigo
+  probabilityCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spawningDisabled: 0
+  spawnFromWeeds: 0
+  numberSpawnedFalloff:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: -1.0000076
+      outSlope: -1.0000076
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: -0.0000076293945
+      inSlope: -1.0000076
+      outSlope: -1.0000076
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  useNumberSpawnedFalloff: 0
+  spawnInGroupsOf: 0
+  requireNestObjectsToSpawn: 0
+  enemyPrefab: {fileID: 7464614736711692994, guid: 3472ea92437ec0943916c85c176c09dd,
+    type: 3}
+  PowerLevel: 1
+  MaxCount: 2
+  numberSpawned: 2
+  nestsSpawned: 0
+  isOutsideEnemy: 0
+  isDaytimeEnemy: 0
+  increasedChanceInterior: 0
+  normalizedTimeInDayToLeave: 0.5
+  stunTimeMultiplier: 4
+  doorSpeedMultiplier: 1
+  stunGameDifficultyMultiplier: 1
+  canBeStunned: 1
+  canDie: 1
+  canBeDestroyed: 0
+  destroyOnDeath: 0
+  canSeeThroughFog: 0
+  pushPlayerForce: 5
+  pushPlayerDistance: 5
+  SizeLimit: 0
+  timeToPlayAudio: 0
+  loudnessMultiplier: 0
+  overrideVentSFX: {fileID: 0}
+  nestSpawnPrefab: {fileID: 0}
+  nestSpawnPrefabWidth: 0
+  useMinEnemyThresholdForNest: 0
+  minEnemiesToSpawnNest: 0
+  hitBodySFX: {fileID: 0}
+  hitEnemyVoiceSFX: {fileID: 8300000, guid: e75a3d2bf2dde6c469895adef2cf6088, type: 3}
+  deathSFX: {fileID: 8300000, guid: fc27e81f53f887b43a50728da6eba6c6, type: 3}
+  stunSFX: {fileID: 8300000, guid: eb32c1215f686924cab145e04ade59e1, type: 3}
+  miscAnimations: []
+  audioClips:
+  - {fileID: 8300000, guid: fc27e81f53f887b43a50728da6eba6c6, type: 3}
+  - {fileID: 8300000, guid: 32b24214aeea7d34b8b094631a62858a, type: 3}
+  - {fileID: 8300000, guid: 7a3294d4d18304748a6ae0aa0e3d0535, type: 3}
+  - {fileID: 8300000, guid: 5a2db20fdd7583244bf127e90a53d960, type: 3}
+  - {fileID: 8300000, guid: eb32c1215f686924cab145e04ade59e1, type: 3}

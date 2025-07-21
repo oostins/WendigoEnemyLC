@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 3292498685
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 792a7a057e891e98a1043fb8782f6de7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a5c5691070378a87968c01f83370d3b9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 792a7a057e891e98a1043fb8782f6de7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23c1ce4fb46143f46bc5cb5224c934f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65d3fcb39dd67306e9bb17a603308070, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d7127b8f98ca8ec9896b384a71d39a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e80ae96b3eb9177eea5c8f9dadbcda1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fff0960ef4ea6e04eac66b4a7fd2189d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d3cecf05b78b173605122a700874719c, type: 3}
+- Class: 114
+  Script: {fileID: -2145758087, guid: 13362227b88438c48a4fda359363ba0d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: AISearchRoutine
+- AssemblyName: Assembly-CSharp
+  ClassName: EnemyBehaviourState
+- AssemblyName: Assembly-CSharp
+  ClassName: NavSizeLimit
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.RigLayer
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BitArray128
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FrameSettings
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FrameSettingsOverrideMask
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.HDPhysicalCamera
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ObsoleteFrameSettings
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ObsoleteLightLoopSettings
+Assets:
+- Assets/ModAssets/WendigoEnemy/Audio/WendigoKill.wav
+- Assets/ModAssets/WendigoEnemy/Models/Wendigo/source/EyelessWendigo.fbx
+- Assets/ModAssets/WendigoEnemy/Models/Wendigo/textures/lambert1_Base_Color4.jpg
+- Assets/ModAssets/WendigoEnemy/Bestiary/WendigoEnemyTK.asset
+- Assets/ModAssets/WendigoEnemy/Materials/lambert1_Normal_OpenGL.png
+- Assets/ModAssets/WendigoEnemy/Models/Wendigo/textures/lambert1_Base_Color3.jpg
+- Assets/ModAssets/WendigoEnemy/WendigoEnemyAnimator.controller
+- Assets/ModAssets/WendigoEnemy/WendigoEnemy.prefab
+- Assets/ModAssets/WendigoEnemy/Audio/WendigoChase5.wav
+- Assets/ModAssets/WendigoEnemy/Audio/heavy-breathing-sound-effect-type-01-294190.mp3
+- Assets/ModAssets/WendigoEnemy/Audio/BareFootstep4.wav
+- Assets/ModAssets/WendigoEnemy/Materials/lambert1_Base_Color3.jpg
+- Assets/ModAssets/WendigoEnemy/Bestiary/WendigoEnemyTN.asset
+- Assets/ModAssets/WendigoEnemy/Models/Wendigo/textures/lambert1_Normal_OpenGL.png
+- Assets/ModAssets/WendigoEnemy/Materials/lambert1_Roughness.png
+- Assets/ModAssets/WendigoEnemy/Audio/WendigoChase4.wav
+- Assets/ModAssets/WendigoEnemy/WendigoEnemyObj.asset
+- Assets/ModAssets/WendigoEnemy/Audio/WendigoChase.wav
+- Assets/ModAssets/WendigoEnemy/Audio/WendigoChase3.wav
+- Assets/ModAssets/WendigoEnemy/Audio/WendigoRunning.mp3
+- Assets/ModAssets/WendigoEnemy/Audio/WendigoChase2.wav
+- Assets/ModAssets/WendigoEnemy/Models/Wendigo/source/wendigo.fbx
+- Assets/ModAssets/WendigoEnemy/Models/Wendigo/textures/lambert1_Roughness.png
+- Assets/ModAssets/WendigoEnemy/Audio/WendigoIdle4.wav
+- Assets/ModAssets/WendigoEnemy/Materials/lambert1_Base_Color4.jpg
+- Assets/ModAssets/WendigoEnemy/Audio/WendigoWalking.ogg
+- Assets/ModAssets/WendigoEnemy/Audio/WendigoIdle.wav
+- Assets/ModAssets/WendigoEnemy/Materials/MapDotRed.mat
+Dependencies: []
